@@ -1,3 +1,3 @@
-This is my journey into Perl scripting. 
-Using Learning Perl 6th Edition
-By Randal L. Schwartz, brian d foy, Tom Phoenix.
+<b>This is my journey into Perl scripting.</b><br> 
+Using <i>Learning Perl 6th Edition<i><br>
+By Randal L. Schwartz, Brian D. Foy, Tom Phoenix.
