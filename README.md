@@ -4,7 +4,7 @@ By Randal L. Schwartz, Brian D. Foy, Tom Phoenix.<br><br>
 
 <b>{CURRICULUM}</b><br><br>
 
-1. Introduction<br>
+<b>1. Introduction</b><br>
 Questions and Answers<br>
 What Does “Perl” Stand For?<br>
 How Can I Get Perl?<br>
