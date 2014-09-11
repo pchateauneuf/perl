@@ -1,9 +1,9 @@
-<b>This is my journey into Perl scripting.<b><br>
+<b>This is my journey into Perl scripting.</b><br>
 Resource: Learning Perl 6th Edition<br>
-By Randal L. Schwartz, Brian D. Foy, Tom Phoenix.<br>
-<br><br>
+By Randal L. Schwartz, Brian D. Foy, Tom Phoenix.<br><br>
 
-<b>{CURRICULUM}</b>
+<b>{CURRICULUM}</b><br><br>
+
 1. Introduction<br>
 Questions and Answers<br>
 What Does “Perl” Stand For?<br>
